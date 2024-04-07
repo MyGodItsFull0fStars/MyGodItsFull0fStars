@@ -6,6 +6,8 @@
 
 ## 🎯 Skills
 
+### Cybersecurity
+
 <p>
   <img src="https://tryhackme-badges.s3.amazonaws.com/ChrisP.Bacon.png" alt="TryHackMe">
 </p>
@@ -29,6 +31,7 @@
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-013243.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="Polars" src="https://img.shields.io/badge/Polars-013243.svg?logo=polars&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-013243.svg?logo=docker&logoColor=white"></a>
 </p> 
 
 ### 🗄️ Databases and cloud hosting

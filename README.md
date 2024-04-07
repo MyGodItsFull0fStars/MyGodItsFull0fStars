@@ -28,6 +28,7 @@
 <p>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-013243.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Polars" src="https://img.shields.io/badge/Polars-013243.svg?logo=polars&logoColor=white"></a>
 </p> 
 
 ### 🗄️ Databases and cloud hosting
@@ -43,7 +44,6 @@
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/PhpStorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/PyCharm-143?&logo=Pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>

@@ -1,77 +1,34 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Heyy%2C+I+am+Christoph!!+%F0%9F%91%8B;CSDC+student+in+Vienna!!;&center=true&width=380&height=45"></a>  
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Hey%2C+I+am+Christian!+%F0%9F%91%8B;PhD+student+in+Klagenfurt!;&center=true&width=380&height=45"></a>  
 </p>              
-                                  
-<hr>                      
-<table align="center">    
-  <tr>    
-    <td>You are visitor</td>  
-    <td><img src="https://profile-counter.glitch.me/0xProtocol/count.svg" alt="vistor count" height="30" /></td>
-  </tr>
-</table>  
-<hr>       
-        
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xProtocol&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=algolia" alt="0xProtocol" /></a> </p>
-
-<p align="center"><a href="https://at.linkedin.com/in/christoph-oprawill/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" height=20></a>
-<a href="https://github.com/0xProtocol"><img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" height=20></a>
-<a href="http://discordapp.com/users/736174784152600577"> <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white" height=20></a></p> 
- 
-## 🎓 Stats   
-
-<p align="center">
-  <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=0xProtocol&show_icons=true&theme=react&&count_private=true&hide_border=true" /> <!--<img height="160em" width="330em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xProtocol&layout=compact&theme=react&langs_count=6&hide_border=true" /> -->
-</p>    
-
-<p align="center">
-  <img height="160em" width="395em" src="http://github-readme-streak-stats.herokuapp.com/?user=0xProtocol&theme=react&hide_border=true" />
-</p>  
       
-## 💎 Top Repositories
-<p align="center">
-  <a href="https://github.com/0xProtocol/MOVE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xProtocol&repo=MOVE&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> 
- <a href="https://github.com/0xProtocol/weatherwetten.nuxt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0xProtocol&repo=weatherwetten.nuxt&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> 
-   <a href="https://github.com/timmy-2003/Programming-2-Course-Repository-CSDC-FH-Campus-Wien-G3.2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=timmy-2003&repo=Programming-2-Course-Repository-CSDC-FH-Campus-Wien-G3.2&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" /> 
-    <a href="https://github.com/megamxl/WorcalcoholicsGame"> 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=megamxl&repo=WorcalcoholicsGame&show_icons=true&theme=react&&count_private=true&hide=stars&hide_border=true" />
-</p>
   
 
 ## 🎯 Skills
+
+<script src="https://tryhackme.com/badge/1247647"></script>
  
 ### 👨‍💻 Programming languages
  
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
         <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown"><img alt="Solidity" src="https://img.shields.io/badge/Solidity-e6e6e6?&logo=solidity&logoColor=black"></a>
 </p>
   
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&style=plastic"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
-    <a href="#"><img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white&style=plastic"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white"></a>
-    <a href="#"><img alt="WPF (.Net)" src="https://img.shields.io/badge/WPF-5C2D91?logo=.net&logoColor=white"></a>
 </p> 
 
 ### 🗄️ Databases and cloud hosting
     
 <p> 
-    <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&style=plastic"></a>
-    <a href="#"><img alt="Jenkins" src ="https://img.shields.io/badge/jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
@@ -80,17 +37,12 @@
 ### 💻 Software and tools
 
 <p>
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
-     <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white"></a>
-     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white"></a>
-        <a href="#"><img alt="Git" src="https://img.shields.io/badge/PhpStorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
-          <a href="#"><img alt="Git" src="https://img.shields.io/badge/PyCharm-143?&logo=Pycharm&logoColor=black&color=black&labelColor=green"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/PhpStorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/PyCharm-143?&logo=Pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-     <a href="#"><img alt="SVN" src="https://img.shields.io/twitter/url?color=black&label=SVN&logo=subversion&url=https%3A%2F%2Fsimpleicons.org%2F%3Fq%3Dsubvers" height="20"></a>
+    <a href="#"><img alt="SVN" src="https://img.shields.io/twitter/url?color=black&label=SVN&logo=subversion&url=https%3A%2F%2Fsimpleicons.org%2F%3Fq%3Dsubvers" height="20"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p> 
 
@@ -98,11 +50,11 @@
 
 
 </br>
-<h2 align='center'><i><a href="https://github.com/0xProtocol/github-readme-activity-graph">Activity Graph</i></h2>
+<h2 align='center'><i><a href="https://github.com/MyGodItsFull0fStars/github-readme-activity-graph">Activity Graph</i></h2>
 <p align="center">
 <!-- <a href="https://github.com/0xProtocol/github-readme-activity-graph"> -->
  <!--<img src="https://activity-graph.herokuapp.com/graph?username=0xProtocol&theme=react-dark&area=true&hide_border=true" width="100%"> -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=0xProtocol&theme=react-dark&area=true&hide_border=true" width="100%">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MyGodItsFull0fStars&theme=react-dark&area=true&hide_border=true" width="100%">
 </a>
 </p>
   

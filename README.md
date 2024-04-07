@@ -6,7 +6,9 @@
 
 ## 🎯 Skills
 
-<script src="https://tryhackme.com/badge/1247647"></script>
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ChrisP.Bacon.png" alt="TryHackMe">
+</p>
  
 ### 👨‍💻 Programming languages
  

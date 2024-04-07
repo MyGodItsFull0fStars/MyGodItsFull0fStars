@@ -46,27 +46,10 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/PhpStorm-143?&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/PyCharm-143?&logo=Pycharm&logoColor=black&color=black&labelColor=green"></a>
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-    <a href="#"><img alt="SVN" src="https://img.shields.io/twitter/url?color=black&label=SVN&logo=subversion&url=https%3A%2F%2Fsimpleicons.org%2F%3Fq%3Dsubvers" height="20"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p> 
 
   
 
-
-</br>
-<h2 align='center'><i><a href="https://github.com/MyGodItsFull0fStars/github-readme-activity-graph">Activity Graph</i></h2>
-<p align="center">
-<!-- <a href="https://github.com/0xProtocol/github-readme-activity-graph"> -->
- <!--<img src="https://activity-graph.herokuapp.com/graph?username=0xProtocol&theme=react-dark&area=true&hide_border=true" width="100%"> -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=MyGodItsFull0fStars&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
-  
-<div align="center">
-<!-- ![GitHub metrics](https://metrics.lecoq.io/0xProtocol)-->
-  
-![GIF](https://raw.githubusercontent.com/0xProtocol/0xProtocol/output/github-contribution-grid-snake.svg)
-  
-</div>
   
 

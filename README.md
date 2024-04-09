@@ -5,12 +5,6 @@
   
 
 ## 🎯 Skills
-
-### Cybersecurity
-
-<p>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ChrisP.Bacon.png" alt="TryHackMe">
-</p>
  
 ### 👨‍💻 Programming languages
  
@@ -35,11 +29,17 @@
   <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-013243.svg?logo=docker&logoColor=white"></a>
 </p> 
 
+### Cybersecurity
+
+<p>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ChrisP.Bacon.png" alt="TryHackMe">
+</p>
+
 ### 🗄️ Databases and cloud hosting
     
 <p> 
     <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-00f.svg?logo=aws&logoColor=white"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
 </p>
 

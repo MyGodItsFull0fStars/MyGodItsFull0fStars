@@ -3,9 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=Hey%2C+I+am+Christian!+%F0%9F%91%8B;PhD+student+in+Klagenfurt!;&center=true&width=380&height=45">
   </a>
   <br></br>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=The%2C+My+God+It's+Full+0f+Stars+Name+Origin!%F0%9F%91%8B;https://esolangs.org/wiki/MGIFOS;&center=true&width=380&height=35">
-    
+  <a href="https://esolangs.org/wiki/MGIFOS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=&vCenter=true&lines=The%2C+My+God+It's+Full+0f+Stars+Name+Origin!%F0%9F%91%8B;&center=true&width=380&height=35">
   </a>
 </p>              
       

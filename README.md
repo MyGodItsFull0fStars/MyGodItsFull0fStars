@@ -61,7 +61,7 @@
 </p> 
 
 ### Other Other Stuff
-<a href="#"><img alt="MGIFOS">[Username Origin](https://esolangs.org/wiki/MGIFOS)</a>
+<a href="#"><img alt="MGIFOS ">[Username Origin](https://esolangs.org/wiki/MGIFOS)</a>
 
   
 
